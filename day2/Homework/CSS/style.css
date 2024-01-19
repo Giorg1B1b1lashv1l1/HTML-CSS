@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Dancing+Script&family=Grape+Nuts&family=Roboto:wght@300&display=swap');
+
+h1{
+    color: tomato;
+    font-size:40px;
+    font-family:"dancing script";
+    text-decoration-line:overline;
+    text-decoration-style:dashed ;
+    text-decoration-color: forestgreen;
+
+}
+p{
+    color:forestgreen;
+    font-size: 50px;
+    font-family: "dancing script";
+    text-decoration-line: overline;
+    text-decoration-style:dashed ;
+    text-decoration-color:tomato;
+}
+
+a{
+    color:yellowgreen;
+    font-size:20px;
+    font-family:"dancing script";
+
+}
