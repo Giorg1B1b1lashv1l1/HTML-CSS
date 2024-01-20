@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto:wght@900&display=swap');
+
+h1{
+    text-align: center;
+    font-family:roboto ;
+}
+h3{
+    text-align: center;
+    font-family:poppins;
+}
+img{
+    width: 338px;
+    height: 338px;
+    margin: 50px;
+
+}
+body{
+    background-color:khaki
+}
+a{
+    font-size: 370%;
+    margin: 50px;
+    font-family: roboto;
+    color: tomato;
+}
+.size{
+    text-align: center;
+}
+button{
+    color: tomato;
+    
+}
