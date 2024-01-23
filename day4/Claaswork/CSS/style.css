@@ -1,0 +1,27 @@
+p.GOA{
+    color: green;
+    text-align: center;
+    font-size: 70px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1.GOA{
+    color:tomato;
+    text-align: center;
+
+}
+
+#info{
+    color: yellowgreen;
+    font-size: 80px;
+    text-decoration-line:underline;
+    text-decoration-color:tomato ;
+    text-align: center;
+
+}
+
+#goal{
+    font-size:200px ;
+    color: tomato;
+    
+}
